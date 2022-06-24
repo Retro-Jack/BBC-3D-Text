@@ -72,7 +72,9 @@
 720 ENDPROC
 730 :
 740 DEF PROCtext
-750 VDU23,230,60,126,219,126,36,66,129,0 
+745 REM Optional Space Invader (CHR$230)
+750 VDU23,230,60,126,219,126,36,66,129,0
+755 REM Table of Styles
 760 REM  =========================
 770 REM | Style | Lines | Letters |
 780 REM |   1   |   3   |   13    |
