@@ -86,7 +86,7 @@
 860 REM  =========================
 870 style%=1
 880 lines%=3
-890 line$(1)="The Lavian's"
+890 line$(1)="Retro Jack's"
 900 line$(2)=CHR$230+" Boomer "+CHR$230
 910 line$(3)="Game Zone"
 920 PROCprepare
